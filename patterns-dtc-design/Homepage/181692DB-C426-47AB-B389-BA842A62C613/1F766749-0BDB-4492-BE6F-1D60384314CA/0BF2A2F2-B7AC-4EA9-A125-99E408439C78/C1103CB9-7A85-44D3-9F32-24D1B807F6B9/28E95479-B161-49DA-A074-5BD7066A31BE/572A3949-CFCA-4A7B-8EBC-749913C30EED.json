@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "572A3949-CFCA-4A7B-8EBC-749913C30EED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86B06A18-9339-4C1A-A02C-B31BB7093699",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE37D280-691B-4980-981D-7CC45CE16A5F",
+    "height": 51,
+    "width": 60,
+    "x": 22,
+    "y": 22
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / auto-insurance",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BF3BA2A-F36B-4405-8201-FB328EF28ABE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DC33F645-4F21-417B-B05C-6397A36A7D96",
+  "verticalSpacing": 0
+}

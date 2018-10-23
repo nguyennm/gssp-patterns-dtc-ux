@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "F731891D-456F-4DE9-8E0B-7F88E344847C",
+  "name": "Sketch Measure / Property",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.137255,
+          "green": 0.65098,
+          "red": 0.960784
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "F731891D-456F-4DE9-8E0B-7F88E344847C",
+    "startDecorationType": 0
+  }
+}

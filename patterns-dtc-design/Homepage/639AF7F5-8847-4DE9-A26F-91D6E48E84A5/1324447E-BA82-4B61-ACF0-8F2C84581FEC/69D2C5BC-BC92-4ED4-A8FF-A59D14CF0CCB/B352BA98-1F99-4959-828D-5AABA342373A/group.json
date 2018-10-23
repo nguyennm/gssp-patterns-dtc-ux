@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B352BA98-1F99-4959-828D-5AABA342373A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 103,
+    "x": 147,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BF722707-E126-4623-9FFA-FF4DBD6B1ACF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D489179-963A-432E-B270-F210D97A5AA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65B3B859-3E0E-483D-BF73-B04F0A127875"
+    }
+  ],
+  "name": "Widgets / product-chip",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

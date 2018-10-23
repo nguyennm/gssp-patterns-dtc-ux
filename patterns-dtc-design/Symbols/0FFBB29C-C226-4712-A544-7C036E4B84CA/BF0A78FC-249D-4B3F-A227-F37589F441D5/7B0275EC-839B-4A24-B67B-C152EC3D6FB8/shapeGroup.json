@@ -1,0 +1,51 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7B0275EC-839B-4A24-B67B-C152EC3D6FB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC23C995-3618-4CA3-9B79-977FD91AC9C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FEC5D845-ADF1-4CF8-B0C6-503D343E39F1",
+    "height": 15.88434939759036,
+    "width": 59.4734693877551,
+    "x": 0.03673469387755102,
+    "y": 0.01659036144578376
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EB1C4AE4-8819-4981-9E4C-38CB3842E873"
+    }
+  ],
+  "name": "Clip 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62D29CC6-D8D5-4303-9A66-09A5671AB5D6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "ACBCBBE7-12C6-4B1A-B637-D27449A324B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0E8A778-1831-4B4F-9CB2-257FE608DAA1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDDED198-491B-41B4-BE18-38109BDC6E77",
+    "height": 127,
+    "width": 250,
+    "x": 35,
+    "y": 133
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "88D1DAFE-CE64-4A35-87BD-40756B55A801"
+    },
+    {
+      "class": "group",
+      "id": "722AEAB2-FCD7-4A2C-8211-236473FC2522"
+    }
+  ],
+  "name": "grp_chips_1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B5D5DCF-96BF-4703-BF90-2B67D9A9CE1F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

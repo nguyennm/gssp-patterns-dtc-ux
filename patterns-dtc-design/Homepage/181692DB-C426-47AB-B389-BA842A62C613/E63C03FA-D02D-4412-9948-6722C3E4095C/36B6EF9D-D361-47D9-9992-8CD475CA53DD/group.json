@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "36B6EF9D-D361-47D9-9992-8CD475CA53DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 250,
+    "x": 35,
+    "y": 290
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5B77765D-2C97-4271-AAB7-7392D6939887"
+    },
+    {
+      "class": "group",
+      "id": "A001CB5A-C050-4755-9A82-5BDCE6F6A543"
+    }
+  ],
+  "name": "grp_chips_1 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
