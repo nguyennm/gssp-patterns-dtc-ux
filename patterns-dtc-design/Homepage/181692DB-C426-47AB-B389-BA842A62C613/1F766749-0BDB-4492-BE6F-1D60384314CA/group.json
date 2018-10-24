@@ -13,25 +13,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1201,
+    "height": 554,
     "width": 320,
     "x": 0,
-    "y": 49
+    "y": 51
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "23152376-CD65-4641-B10A-E604E9612ACE"
-    },
-    {
       "class": "group",
-      "id": "0BF2A2F2-B7AC-4EA9-A125-99E408439C78"
+      "id": "E9B591BD-A8C1-4339-84F7-4152FEE125CE"
     }
   ],
   "name": "grp_takeover",

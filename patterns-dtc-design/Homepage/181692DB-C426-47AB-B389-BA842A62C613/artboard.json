@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1250,
+    "height": 816,
     "width": 320,
     "x": -441,
     "y": 147
@@ -50,10 +50,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "74A72C15-86A6-46B3-B75D-CB779E94A8BA"
-    },
-    {
-      "class": "symbolInstance",
       "id": "17F4B8DC-7F4A-4166-9AB5-1F08E8F7885C"
     },
     {
@@ -62,23 +58,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D88DDBAA-E4B8-4332-996F-B46D75ED7BC8"
-    },
-    {
-      "class": "group",
-      "id": "E63C03FA-D02D-4412-9948-6722C3E4095C"
-    },
-    {
-      "class": "group",
-      "id": "320D238A-4E60-4731-A742-799BE47583E7"
+      "id": "2EC6EFE7-9C3C-4AB6-A991-6A1289114960"
     },
     {
       "class": "group",
       "id": "1F766749-0BDB-4492-BE6F-1D60384314CA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "704BC8E0-91EB-4176-B835-891254CCBC8B"
     }
   ],
   "name": "DTC/Homepage - Product Selection",

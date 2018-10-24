@@ -16,12 +16,12 @@
     "height": 12,
     "width": 320,
     "x": 0,
-    "y": 1238
+    "y": 804
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Statics / footer-bar-mobile",

@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 24,
-    "width": 24.75,
-    "x": 118.8333333333334,
-    "y": 116
+    "width": 25,
+    "x": 119,
+    "y": 112
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
