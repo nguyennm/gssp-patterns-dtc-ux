@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F1CB90F5-D92A-43D5-90EF-1BB3C1D3F723",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9EFFFD7-00FC-48B7-A341-146A1A96579B"
+    },
+    {
+      "class": "bitmap",
+      "id": "E2B07A98-4CBA-4D12-B197-9A9DA4DD66C6"
+    },
+    {
+      "class": "group",
+      "id": "0B9B50A7-38B6-4A25-9BFF-AAFE716B74CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB6BF6F4-6533-4096-83B3-A2F848E1C4CD"
+    }
+  ],
+  "name": "Statics / navigation-bar-mobile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

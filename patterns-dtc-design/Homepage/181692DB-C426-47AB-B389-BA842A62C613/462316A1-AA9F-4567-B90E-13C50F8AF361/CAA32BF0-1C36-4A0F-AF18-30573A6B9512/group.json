@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CAA32BF0-1C36-4A0F-AF18-30573A6B9512",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5C71A6E-81E9-4EA7-8900-A026BFE1D54A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "890B5397-6BEC-4F10-9506-27C674BA4E4C",
+    "height": 50,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4024605A-6A1E-418E-A2A1-4574A500451F"
+    },
+    {
+      "class": "bitmap",
+      "id": "4341B03A-8460-4D41-9C1F-AE3462B792DF"
+    },
+    {
+      "class": "group",
+      "id": "315D91A4-0F1C-45F9-A3C2-0B41235326DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "381FB70C-DCB1-424E-B6BC-93337DF012A8"
+    }
+  ],
+  "name": "Statics / navigation-bar-mobile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD406922-9D87-45FA-A627-B1F8123ECA6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

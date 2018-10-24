@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "381FB70C-DCB1-424E-B6BC-93337DF012A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEFF7F41-3DED-4505-B2A0-4503EB438F0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CB2C3885-49FB-461D-8FB4-789F017E22AB",
+    "height": 24,
+    "width": 27,
+    "x": 15,
+    "y": 13
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/hamburger",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D10BD1F-887B-42E0-874F-8C1479383693",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E273D07-1CAF-4DBB-8BC2-C29D2BA5C09C",
+  "verticalSpacing": 0
+}

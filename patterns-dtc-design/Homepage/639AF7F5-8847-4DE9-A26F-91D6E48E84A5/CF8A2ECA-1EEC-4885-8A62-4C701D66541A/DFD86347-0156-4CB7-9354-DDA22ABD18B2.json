@@ -1,5 +1,6 @@
 {
   "_class": "bitmap",
+  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "do_objectID": "DFD86347-0156-4CB7-9354-DDA22ABD18B2",
   "exportOptions": {
@@ -33,9 +34,11 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/249e51a45f0e17187742f15a2057900753bbb2e9",
+    "_ref": "images/249e51a45f0e17187742f15a2057900753bbb2e9.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -50,8 +53,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "85FACC64-1C31-46A5-81A4-CDF0D32A99C9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

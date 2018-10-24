@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUJGSlJTVFVWWV1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANZRXhjZWxsZW500xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAE4AQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiMAAAAAAAAAACM/8AAAAAAAACM/5BQUFBQUFCM/2FhYWFhYWtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN01To7PAo9Pj9AQUBbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBAEgAAjQDoAAAAAAACAEtI0NUNEXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQ0U4XxAQTlNQYXJhZ3JhcGhTdHlsZdIKR0hJXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGoAU0xESCktOUaJMTYAVgBaiT1CAF4AYgBlfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF5Sb2JvdG8tUmVndWxhctI0NVdYXxATTlNNdXRhYmxlRGljdGlvbmFyeaNXNjjSNDVaW18QEE5TRm9udERlc2NyaXB0b3KiXDhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1Xl9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYDhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRY2RUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAkACXAJ8AqgCuALAAsgC0ALgAugC8AL4AwADtAQABIgEpAS4BMAEyATQBNgE7AT0BPwFBAUMBRQFJAU8BVAFaAWMBbAF1AX4BgwGOAZcBpAGnAbABuwHHAdIB5AH2AfgB+gIDAgUCCgIkAigCOwJAAl0CXwJhAmgCawJtAm8CcgJ0AnYCeAKOAqQCrQK8AsEC1wLbAuAC8wL2AwkDDgMjAyYDOwNNA1ADVQAAAAAAAAIBAAAAAAAAAGUAAAAAAAAAAAAAAAAAAANX"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6274509803921569,
+            "green": 0.3803921568627452,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 9,
+        "location": 0
+      }
+    ],
+    "string": "Excellent"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "8423BA9A-B5EC-4D32-A545-13656FA715C0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +55,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 5}, {71, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

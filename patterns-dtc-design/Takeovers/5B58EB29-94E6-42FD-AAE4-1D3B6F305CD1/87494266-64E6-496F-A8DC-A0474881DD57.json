@@ -1,12 +1,65 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGoKFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV2NmaWx2goOEhYiQkZSYnFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAJ4ADgClvEQG2AEEAZwByAGUAZQBtAGUAbgB0ACAAdABvACAAQwBvAG4AZAB1AGMAdAAgAEUAbABlAGMAdAByAG8AbgBpAGMAIABUAHIAYQBuAHMAYQBjAHQAaQBvAG4ACgBEAEkAUwBDAEwATwBTAFUAUgBFAFMAIABBAE4ARAAgAEMATwBOAFMARQBOAFQAIABUAE8AIABDAE8ATgBEAFUAQwBUACAAQgBVAFMASQBOAEUAUwBTACAARQBMAEUAQwBUAFIATwBOAEkAQwBBAEwATABZACAAUABMAEUAQQBTAEUAIABQAFIASQBOAFQAIABPAFIAIABEAE8AVwBOAEwATwBBAEQAIABBACAAQwBPAFAAWQAgAE8ARgAgAFQASABJAFMAIABEAEkAUwBDAEwATwBTAFUAUgBFACAARgBPAFIAIABZAE8AVQBSACAAUgBFAEMATwBSAEQAUwAgAEEARgBUAEUAUgAgAFIARQBBAEQASQBOAEcAIABUAEgARQBNAC4ACgBXAGUAIABhAHIAZQAgAHIAZQBxAHUAaQByAGUAZAAgAGIAeQAgAGwAYQB3ACAAdABvACAAcAByAG8AdgBpAGQAZQAgAGMAZQByAHQAYQBpAG4AIABkAGkAcwBjAGwAbwBzAHUAcgBlAHMAIAB0AG8AIABZAG8AdQAgAGIAZQBmAG8AcgBlACAAWQBvAHUAIABlAG4AdABlAHIAIABpAG4AdABvACAAdABoAGkAcwAgAHQAcgBhAG4AcwBhAGMAdABpAG8AbgAgAGUAbABlAGMAdAByAG8AbgBpAGMAYQBsAGwAeQAuACAASQBuACAAYQBkAGQAaQB0AGkAbwBuACwAIABXAGUAIABuAGUAZQBkACAAWQBvAHUAcgAgAGMAbwBuAHMAZQBuAHQAIAB0AG8AIABlAG4AdABlAHIAIABpAG4AdABvACAAdABoAGkAcwAgAHQAcgBhAG4AcwBhAGMAdABpAG8AbgAgAGIAZQBmAG8AcgBlACAAVwBlACAAYwBhAG4AIABkAGUAbABpAHYAZQByACwAIABvAHIAIABhAHUAdABoAG8AcgBpAHoAZQAgAHQAaABlACAAZABlAGwAaQB2AGUAcgB5ACAAbwBmACwAIABjAGUAcgB0AGEAaQBuICYgJiAmICYgJgAu0hMMFBdaTlMub2JqZWN0c6IVFoAEgB6AJtMZEwwaHiJXTlMua2V5c6MbHB2ABYAGgAejHyAhgAiAEoAagBFfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMZEwwnLCKkKCkqK4AJgAqAC4AMpC0uLzCADYAOgA+AEIARU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JmZmZmZmaIz/wAAAAAAAAIz/JmZmZmZmaIz/JmZmZmZma0js8PT5aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPT9YTlNPYmplY3TSDEFCQ18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBmAE9MZEwxFSEuiRkeAFIAVoklKgBaAF4AYXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABbUm9ib3RvLUJvbGTSOzxRUl8QE05TTXV0YWJsZURpY3Rpb25hcnmjUT0/0js8VFVfEBBOU0ZvbnREZXNjcmlwdG9yolY/XxAQTlNGb250RGVzY3JpcHRvctZYWVpbDFxdXl9gYWBfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHMjQCQAAAAAAACAABAEgBuAHYAb0hMMZGWggBzSOzxnaFdOU0FycmF5omc/0js8amtfEBBOU1BhcmFncmFwaFN0eWxlomo/0xkTDG1xIqMbHRyABYAHgAajciF0gB+AGoAjgBHTGRMMd3wipCgpKiuACYAKgAuADKR9Ln+AgCCADoAhgCKAESM/yZmZmZmZmiM/yZmZmZmZmiM/yZmZmZmZmtIMQUKHgBmAJNMZEwyJjEuiRkeAFIAVokmOgBaAJYAYXlJvYm90by1SZWd1bGFy0js8kpNeTlNNdXRhYmxlQXJyYXmjkmc/0pUMlpdXTlMuZGF0YUUsAIoDAYAo0js8mZpdTlNNdXRhYmxlRGF0YaOZmz9WTlNEYXRh0js8nZ5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeinz9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRoqNUcm9vdIABAAgAEQAaACMALQAyADcAZABqAHMAfACOAJsAogCkAKYAqACqBBoEHwQqBC0ELwQxBDMEOgRCBEYESARKBEwEUARSBFQEVgRYBIUEpwS6BMEExgTIBMoEzATOBNME1QTXBNkE2wTdBOEE5wTsBPIE+wUEBQ0FFgUbBSYFLwU8BT8FSAVNBWoFbAVuBXUFeAV6BXwFfwWBBYMFhQWbBbEFugXGBcsF4QXlBeoF/QYABhMGIAY1BkAGTAZZBmUGbgZwBnIGdAZ2BngGfQZ+BoAGhQaNBpAGlQaoBqsGsga2BrgGuga8BsAGwgbEBsYGyAbPBtQG1gbYBtoG3AbhBuMG5QbnBukG6wb0Bv0HBgcLBw0HDwcWBxkHGwcdByAHIgckByYHNQc6B0kHTQdSB1oHYAdiB2cHdQd5B4AHhQeaB50HsgfEB8cHzAAAAAAAAAIBAAAAAAAAAKQAAAAAAAAAAAAAAAAAAAfO"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 10
+          }
+        },
+        "length": 44,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 10
+          }
+        },
+        "length": 394,
+        "location": 44
+      }
+    ],
+    "string": "Agreement to Conduct Electronic Transaction\nDISCLOSURES AND CONSENT TO CONDUCT BUSINESS ELECTRONICALLY PLEASE PRINT OR DOWNLOAD A COPY OF THIS DISCLOSURE FOR YOUR RECORDS AFTER READING THEM.\nWe are required by law to provide certain disclosures to You before You enter into this transaction electronically. In addition, We need Your consent to enter into this transaction before We can deliver, or authorize the delivery of, certain……………."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "87494266-64E6-496F-A8DC-A0474881DD57",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +80,7 @@
     "y": 441
   },
   "glyphBounds": "{{0, 2}, {249, 240}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -41,27 +95,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.2,
           "green": 0.2,
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFtSb2JvdG8tQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Bold",
+            "size": 14
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExJfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NWJGNsYXNzW05TVGV4dExpc3RzI0AkAAAAAAAAgAAQBIACgASAAtIWDRcYWk5TLm9iamVjdHOggAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHB5YTlNPYmplY3TSGhsgIV8QEE5TUGFyYWdyYXBoU3R5bGWiIB5fEA9OU0tleWVkQXJjaGl2ZXLRJCVUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAZQBwAHwAiQCQAJwApQCnAKkAqwCtAK8AtAC/AMAAwgDHANIA2wDjAOYA7wD0AQcBCgEcAR8BJAAAAAAAAAIBAAAAAAAAACYAAAAAAAAAAAAAAAAAAAEm"
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 10
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -1,12 +1,42 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIi00OEBBQkNESExNWVpbXF1eX2BhY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA1tFbWFpbCBRdW90ZdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBOAHF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlW05TVW5kZXJsaW5lXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRl1iMkJSYKJygpKissKl8QEk5TUGFyYWdyYXBoU3BhY2luZ1tOU0FsaWdubWVudF8QD05TTWluTGluZUhlaWdodFpOU1RhYlN0b3BzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDAAAAAAAACAAIAJ0i4vMDFaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozAyM18QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCjU2N18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgo5PD+iOjuADIANoj0+gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABbUm9ib3RvLUJvbGTSLi9FRl8QE05TTXV0YWJsZURpY3Rpb25hcnmjRUczXE5TRGljdGlvbmFyedIuL0lKXxAQTlNGb250RGVzY3JpcHRvcqJLM18QEE5TRm9udERlc2NyaXB0b3IQAdMREgpOUx2kT1BRUoAUgBWAFoAXpFRVVleAGIAZgBqAG4AcU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/nl5eXl5eYIz/enp6enp6m0i4vR2KiRzPSLi9kZV8QEk5TQXR0cmlidXRlZFN0cmluZ6JmM18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFpalRyb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACUAJsAowCuALMAtQC3ALkAuwDAAMIAxADGAMgAygDdAP8BCwE4AUUBWgFmAXgBgwGVAZ4BoAGpAasBrQGyAb0BxgHgAeQB9wIAAgUCIgIkAiYCLQIwAjICNAI3AjkCOwI9AlMCaQJyAn4CgwKZAp0CqgKvAsICxQLYAtoC4QLmAugC6gLsAu4C8wL1AvcC+QL7Av0DAQMHAwwDEgMbAyQDLQM2AzsDPgNDA1gDWwNwA4IDhQOKAAAAAAAAAgEAAAAAAAAAawAAAAAAAAAAAAAAAAAAA4w="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.7372549019607844,
+            "green": 0.47843137254902,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16,
+            "paragraphSpacing": 10
+          },
+          "underlineStyle": 1
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "Email Quote"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "CB35BCDB-1D34-4ECA-8FA8-E94F1FA43442",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +57,7 @@
     "y": 3
   },
   "glyphBounds": "{{0, 2}, {76, 13}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

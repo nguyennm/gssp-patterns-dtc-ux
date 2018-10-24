@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "1974FCBA-92B5-4B7A-B2F5-FB2F49AF5144",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3722662D-D1B4-4A16-9C74-4E9CBBB70A47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0A9E9A6-291A-44D2-9E4E-0A9B0A1D4A2A",
+    "height": 24,
+    "width": 69,
+    "x": 142,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5FDC1191-A11A-4049-9177-102E8304FA79"
+    },
+    {
+      "class": "text",
+      "id": "76BA2389-B29C-4E04-8505-269D58999D81"
+    }
+  ],
+  "name": "#kids copy 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6FC1CB5-8B82-4AAB-B2D0-1D6E318B6055",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

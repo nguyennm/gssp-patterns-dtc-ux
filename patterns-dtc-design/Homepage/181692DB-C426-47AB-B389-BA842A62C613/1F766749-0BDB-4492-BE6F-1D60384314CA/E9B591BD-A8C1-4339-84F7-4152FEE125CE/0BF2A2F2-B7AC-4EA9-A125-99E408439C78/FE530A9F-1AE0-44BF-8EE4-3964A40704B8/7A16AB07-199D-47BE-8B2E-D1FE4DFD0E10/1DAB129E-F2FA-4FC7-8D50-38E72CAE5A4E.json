@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1DAB129E-F2FA-4FC7-8D50-38E72CAE5A4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4D4C371-D6CC-4A71-BDE6-6380A3C27F03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD6B944E-23CC-47D6-8CDE-6A9F18115AF0",
+    "height": 59,
+    "width": 60,
+    "x": 22,
+    "y": 21
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / auto-insurance",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8652C90C-D165-4709-A143-5742A2C867CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "40B2ABF5-8B18-44AD-9A4E-D114E11C11CA",
+  "verticalSpacing": 0
+}

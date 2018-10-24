@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E9B591BD-A8C1-4339-84F7-4152FEE125CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 554,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AFDB326-66DE-4932-8CB7-72A894820D30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "527D5AF9-4178-4C31-9FC2-19773E4A46BD"
+    },
+    {
+      "class": "text",
+      "id": "576A54A9-8CCD-4519-A8A0-CB87A9A069FA"
+    },
+    {
+      "class": "group",
+      "id": "0BF2A2F2-B7AC-4EA9-A125-99E408439C78"
+    }
+  ],
+  "name": "grp_dialog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

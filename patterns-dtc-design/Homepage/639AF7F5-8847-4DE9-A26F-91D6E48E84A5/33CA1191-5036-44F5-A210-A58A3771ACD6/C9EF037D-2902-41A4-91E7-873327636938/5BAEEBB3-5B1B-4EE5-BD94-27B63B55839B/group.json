@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5BAEEBB3-5B1B-4EE5-BD94-27B63B55839B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD5AA84D-4903-48CD-A121-73A0366FF225",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5D3FD3C-755D-4D7A-9999-F0D262E629F2",
+    "height": 24,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E16BD194-8B0C-4C0E-98A5-D169A1A2C1D4"
+    },
+    {
+      "class": "text",
+      "id": "1E1C8CD9-D934-465D-A8D5-D9AF8891F0D1"
+    }
+  ],
+  "name": "#kids copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AF256CF-7897-4E2D-A536-B6A73F35A2DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

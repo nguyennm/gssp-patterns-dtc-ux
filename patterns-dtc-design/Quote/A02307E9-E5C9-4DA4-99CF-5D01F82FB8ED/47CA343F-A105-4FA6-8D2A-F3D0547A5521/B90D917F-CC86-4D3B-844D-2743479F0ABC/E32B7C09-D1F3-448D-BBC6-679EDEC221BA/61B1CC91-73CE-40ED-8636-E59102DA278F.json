@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUJGSlJTVFVWWV1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANSMzTTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYATgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/kFBQUFBQUIz/YWFhYWFha0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TVOjs8Cj0+P0BBQFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EASAACNAOgAAAAAAAIAS0jQ1Q0RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNDRThfEBBOU1BhcmFncmFwaFN0eWxl0gpHSElfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKS05RokxNgBWAFqJPUIAXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXlJvYm90by1SZWd1bGFy0jQ1V1hfEBNOU011dGFibGVEaWN0aW9uYXJ5o1c2ONI0NVpbXxAQTlNGb250RGVzY3JpcHRvcqJcOF8QEE5TRm9udERlc2NyaXB0b3LSNDVeX18QEk5TQXR0cmlidXRlZFN0cmluZ6JgOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFjZFRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgCJAJAAmACjAKcAqQCrAK0AsQCzALUAtwC5AOYA+QEbASIBJwEpASsBLQEvATQBNgE4AToBPAE+AUIBSAFNAVMBXAFlAW4BdwF8AYcBkAGdAaABqQG0AcABywHdAe8B8QHzAfwB/gIDAh0CIQI0AjkCVgJYAloCYQJkAmYCaAJrAm0CbwJxAocCnQKmArUCugLQAtQC2QLsAu8DAgMHAxwDHwM0A0YDSQNOAAAAAAAAAgEAAAAAAAAAZQAAAAAAAAAAAAAAAAAAA1A="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6274509803921569,
+            "green": 0.3803921568627452,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 2,
+        "location": 0
+      }
+    ],
+    "string": "34"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "61B1CC91-73CE-40ED-8636-E59102DA278F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +55,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 6}, {20, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

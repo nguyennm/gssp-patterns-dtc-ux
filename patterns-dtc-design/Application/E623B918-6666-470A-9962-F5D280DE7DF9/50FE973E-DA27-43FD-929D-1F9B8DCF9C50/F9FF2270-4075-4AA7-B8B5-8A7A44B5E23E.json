@@ -1,12 +1,41 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGY2RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOURITFRVVldYW19VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEBcxLiBXaGF0IGlzIHlvdXIgaGVpZ2h0P9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBOAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8mZmZmZmZojP/AAAAAAAAAjP8mZmZmZmZojP8mZmZmZmZrSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNY6Ozw9Cj4/QEFCQ0FfEBJOU1BhcmFncmFwaFNwYWNpbmdbTlNBbGlnbm1lbnRfEA9OU01pbkxpbmVIZWlnaHRaTlNUYWJTdG9wc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAABAEI0AwAAAAAAAAgACAEtI0NUVGXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjRUc4XxAQTlNQYXJhZ3JhcGhTdHlsZdIKSUpLXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGoAU0xESCk1QU6JOT4AVgBaiUVKAF4AYgBlfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFtSb2JvdG8tQm9sZNI0NVlaXxATTlNNdXRhYmxlRGljdGlvbmFyeaNZNjjSNDVcXV8QEE5TRm9udERlc2NyaXB0b3KiXjhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1YGFfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYjhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZWZUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAoACnAK8AugC+AMAAwgDEAMgAygDMAM4A0AD9ARABMgE5AT4BQAFCAUQBRgFLAU0BTwFRAVMBVQFZAV8BZAFqAXMBfAGFAY4BkwGeAacBtAG3AcABzQHiAe4CAAILAh0CJgIoAjECMwI1AjoCVAJYAmsCcAKNAo8CkQKYApsCnQKfAqICpAKmAqgCvgLUAt0C6QLuAwQDCAMNAyADIwM2AzsDUANTA2gDegN9A4IAAAAAAAACAQAAAAAAAABnAAAAAAAAAAAAAAAAAAADhA=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16,
+            "paragraphSpacing": 10
+          }
+        },
+        "length": 23,
+        "location": 0
+      }
+    ],
+    "string": "1. What is your height?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "F9FF2270-4075-4AA7-B8B5-8A7A44B5E23E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +56,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 2}, {143, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUJGSlJTVFVWWV1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANXTWFycmllZNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBOAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAAAjP+QUFBQUFBQjP9hYWFhYWFrSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNU6OzwKPT4/QEFAW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHQQBIAAI0A6AAAAAAAAgBLSNDVDRF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0NFOF8QEE5TUGFyYWdyYXBoU3R5bGXSCkdISV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBqAFNMREgpLTlGiTE2AFYAWok9QgBeAGIAZXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABeUm9ib3RvLVJlZ3VsYXLSNDVXWF8QE05TTXV0YWJsZURpY3Rpb25hcnmjVzY40jQ1WltfEBBOU0ZvbnREZXNjcmlwdG9yolw4XxAQTlNGb250RGVzY3JpcHRvctI0NV5fXxASTlNBdHRyaWJ1dGVkU3RyaW5nomA4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WNkVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAI4AlQCdAKgArACuALAAsgC2ALgAugC8AL4A6wD+ASABJwEsAS4BMAEyATQBOQE7AT0BPwFBAUMBRwFNAVIBWAFhAWoBcwF8AYEBjAGVAaIBpQGuAbkBxQHQAeIB9AH2AfgCAQIDAggCIgImAjkCPgJbAl0CXwJmAmkCawJtAnACcgJ0AnYCjAKiAqsCugK/AtUC2QLeAvEC9AMHAwwDIQMkAzkDSwNOA1MAAAAAAAACAQAAAAAAAABlAAAAAAAAAAAAAAAAAAADVQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6274509803921569,
+            "green": 0.3803921568627452,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 7,
+        "location": 0
+      }
+    ],
+    "string": "Married"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C79E5782-8AAD-492A-BCAC-F004107DF3D3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -29,6 +57,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 5}, {60, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
