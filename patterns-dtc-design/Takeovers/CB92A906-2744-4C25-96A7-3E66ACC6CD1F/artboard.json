@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "64839E0C-0A78-48A2-84C0-E293F2D3F29B",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "CB92A906-2744-4C25-96A7-3E66ACC6CD1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "664FF835-C0E0-4834-806A-95081B5E3008",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A92EFE65-68AF-4A68-A7D1-3ABFC95776B9",
+    "height": 1250,
+    "width": 320,
+    "x": -770,
+    "y": 158
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "D0BF03D0-5F87-446E-BA94-440F40A58C04",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AB6B017E-5C6A-4B83-BC8B-358AFC337B83",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D9F0D954-0148-4893-A589-D3C3026CDDAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D613B15A-4894-44CA-B2CC-4FBD06654C9A"
+    },
+    {
+      "class": "group",
+      "id": "4A58E6FE-1A84-41F4-A2A3-55ADFDE42E7B"
+    },
+    {
+      "class": "group",
+      "id": "7E14F30E-9CEA-48A6-9BD6-61F41507BA10"
+    },
+    {
+      "class": "group",
+      "id": "9799EC41-C9D7-48C0-AE81-9E962641936D"
+    },
+    {
+      "class": "group",
+      "id": "8F9A3AC5-29C6-480D-8C46-AFA6FE7C9465"
+    },
+    {
+      "class": "text",
+      "id": "46D99C4C-28DE-4B4F-B2E4-847046AC4F8F"
+    },
+    {
+      "class": "text",
+      "id": "72936195-CA13-4A65-9957-C6DFAE255BB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0AA7EFA-261D-4C70-A969-A585C7280B34"
+    }
+  ],
+  "name": "DTC/Takeover - Email Quote",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "088D6197-4892-4D26-861A-E279166EEF16",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9E3CA195-02C5-46E0-A34A-722AE6F86D47",
+    "guides": [
+    ]
+  }
+}

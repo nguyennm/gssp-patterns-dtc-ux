@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "5B58EB29-94E6-42FD-AAE4-1D3B6F305CD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1250,
+    "width": 320,
+    "x": -350,
+    "y": 158
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "33842B15-F38D-48FF-9F55-B36DCC834C43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "534F40A9-E4D7-4525-9835-09ECCCFA4123"
+    },
+    {
+      "class": "text",
+      "id": "87494266-64E6-496F-A8DC-A0474881DD57"
+    },
+    {
+      "class": "group",
+      "id": "D13147B8-87A0-4FC6-9C93-8A53C1450321"
+    },
+    {
+      "class": "group",
+      "id": "0B7FB2E8-6431-4CA3-AB04-9C572981447C"
+    },
+    {
+      "class": "group",
+      "id": "DDD09B57-0310-48FF-A854-3BD430E6D142"
+    },
+    {
+      "class": "text",
+      "id": "83478B43-B1DD-44F6-8289-9D8296DB6449"
+    },
+    {
+      "class": "text",
+      "id": "5C7D68B3-E298-4FFD-9F5D-87B057E396A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "340212BC-A120-4662-B930-1B30EC1FB4BE"
+    },
+    {
+      "class": "group",
+      "id": "347BA52F-8D78-4F36-B38C-DF191263257E"
+    }
+  ],
+  "name": "DTC/Takeover - Save Progress",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

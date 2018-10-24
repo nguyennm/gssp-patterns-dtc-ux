@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIi00OEBBQkNESExNWVpbXF1eX2BhY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA1tFbWFpbCBRdW90ZdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBOAHF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlW05TVW5kZXJsaW5lXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRl1iMkJSYKJygpKissKl8QEk5TUGFyYWdyYXBoU3BhY2luZ1tOU0FsaWdubWVudF8QD05TTWluTGluZUhlaWdodFpOU1RhYlN0b3BzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDAAAAAAAACAAIAJ0i4vMDFaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozAyM18QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCjU2N18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgo5PD+iOjuADIANoj0+gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABbUm9ib3RvLUJvbGTSLi9FRl8QE05TTXV0YWJsZURpY3Rpb25hcnmjRUczXE5TRGljdGlvbmFyedIuL0lKXxAQTlNGb250RGVzY3JpcHRvcqJLM18QEE5TRm9udERlc2NyaXB0b3IQAdMREgpOUx2kT1BRUoAUgBWAFoAXpFRVVleAGIAZgBqAG4AcU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAAIz/nl5eXl5eYIz/enp6enp6m0i4vR2KiRzPSLi9kZV8QEk5TQXR0cmlidXRlZFN0cmluZ6JmM18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFpalRyb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACUAJsAowCuALMAtQC3ALkAuwDAAMIAxADGAMgAygDdAP8BCwE4AUUBWgFmAXgBgwGVAZ4BoAGpAasBrQGyAb0BxgHgAeQB9wIAAgUCIgIkAiYCLQIwAjICNAI3AjkCOwI9AlMCaQJyAn4CgwKZAp0CqgKvAsICxQLYAtoC4QLmAugC6gLsAu4C8wL1AvcC+QL7Av0DAQMHAwwDEgMbAyQDLQM2AzsDPgNDA1gDWwNwA4IDhQOKAAAAAAAAAgEAAAAAAAAAawAAAAAAAAAAAAAAAAAAA4w="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "CB35BCDB-1D34-4ECA-8FA8-E94F1FA43442",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 77,
+    "x": 23,
+    "y": 3
+  },
+  "glyphBounds": "{{0, 2}, {76, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Email Quote",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2FBB3A33-993B-43A8-8665-4A37FF86139E"
+  },
+  "textBehaviour": 0
+}

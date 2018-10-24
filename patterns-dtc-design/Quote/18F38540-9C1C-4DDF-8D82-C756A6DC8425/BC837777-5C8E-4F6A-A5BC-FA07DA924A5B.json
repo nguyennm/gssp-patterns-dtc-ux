@@ -16,7 +16,7 @@
     "height": 40,
     "width": 292,
     "x": 14,
-    "y": 613
+    "y": 476
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,11 +30,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6_stringValue",
-      "value": "NEXT"
+      "value": "GET MY QUOTE"
     }
   ],
   "overrides": {
-    "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "NEXT"
+    "5FD11BD4-C13E-47A6-8DB5-D9DA837DCDF6": "GET MY QUOTE"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

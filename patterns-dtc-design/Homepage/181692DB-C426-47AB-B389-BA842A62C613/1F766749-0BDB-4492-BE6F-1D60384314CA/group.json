@@ -26,20 +26,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "CF1669BC-F194-4138-8C41-D98EDDCC20DD"
+      "class": "symbolInstance",
+      "id": "23152376-CD65-4641-B10A-E604E9612ACE"
     },
     {
       "class": "group",
       "id": "0BF2A2F2-B7AC-4EA9-A125-99E408439C78"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E3E9807C-5C64-49C6-BEDC-7A53BB817942"
-    },
-    {
-      "class": "text",
-      "id": "66955E20-9AB5-41BB-8D22-25B44D870AA4"
     }
   ],
   "name": "grp_takeover",

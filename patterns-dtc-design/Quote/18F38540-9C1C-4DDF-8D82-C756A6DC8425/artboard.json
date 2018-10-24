@@ -83,6 +83,10 @@
     {
       "class": "symbolInstance",
       "id": "BC837777-5C8E-4F6A-A5BC-FA07DA924A5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C36A72F4-9167-48C3-A467-6870D025D192"
     }
   ],
   "name": "DTC/Quote - Step 2",

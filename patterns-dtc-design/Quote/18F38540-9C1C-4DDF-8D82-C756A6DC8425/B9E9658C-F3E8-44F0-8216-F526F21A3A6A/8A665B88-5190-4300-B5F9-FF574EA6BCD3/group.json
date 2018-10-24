@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 26,
     "width": 203,
-    "x": 24,
+    "x": 43,
     "y": 43
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
