@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CA683C34-D2BE-4A09-BB3C-69B7C72C8F52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38C78335-A773-4158-9043-80919AECA85F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5C0E199-FFE8-4B32-BBCC-BDFEA33538DB",
+    "height": 12,
+    "width": 320,
+    "x": 0,
+    "y": 1344
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Statics / footer-bar-mobile",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0842C04-28B3-4C04-8703-C3AB22E84224",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B3F814B-0481-4C46-80D3-4DBCDF0F0925",
+  "verticalSpacing": 0
+}

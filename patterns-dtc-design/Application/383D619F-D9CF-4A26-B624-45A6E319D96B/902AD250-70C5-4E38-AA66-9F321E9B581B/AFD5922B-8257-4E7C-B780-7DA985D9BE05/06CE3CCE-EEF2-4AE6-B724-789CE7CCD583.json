@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "06CE3CCE-EEF2-4AE6-B724-789CE7CCD583",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D90B705-1567-4151-8562-2FBCB2FB9221",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4DE4505-5287-49B9-A4D8-F7A3DE0FF49E",
+    "height": 26,
+    "width": 26,
+    "x": 52.79999999999995,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Progress / stepper-inactive Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0844BBB8-DFC5-42B6-83BD-12C9E9995828",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6E9CCD95-AEE1-4801-81BD-367E64BB0606",
+  "verticalSpacing": 0
+}

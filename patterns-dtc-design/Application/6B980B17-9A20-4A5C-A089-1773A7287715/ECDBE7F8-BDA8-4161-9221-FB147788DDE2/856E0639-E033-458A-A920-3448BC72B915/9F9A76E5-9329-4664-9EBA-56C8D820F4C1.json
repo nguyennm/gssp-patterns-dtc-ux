@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9F9A76E5-9329-4664-9EBA-56C8D820F4C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DB9D73C-382A-40A2-A326-3B0FCAFD3CC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E276E05-C462-4604-9F6E-92C1CD6B7B18",
+    "height": 5,
+    "width": 215,
+    "x": 22,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Progress / stepper-bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D1A414D-FA8A-4A3A-AFB8-BB76F8C0948D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E174B51C-EE25-45CF-B022-945A19D69DDA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6B273F54-276A-45EE-880D-C1CDFA4C9BB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47ED2827-CC46-4BF3-BF18-C1E56AFA6BCF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFC25F27-CD55-4D87-ABF6-B570ADAAF31C",
+    "height": 61,
+    "width": 259,
+    "x": 31,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "19B0F327-A8F7-4543-81F5-F9932010241C"
+    },
+    {
+      "class": "text",
+      "id": "29B05F69-A80B-4A06-9D27-E74F4DB1A1FB"
+    },
+    {
+      "class": "text",
+      "id": "96C362BB-B447-4AE6-9561-EA6A573C0BAB"
+    }
+  ],
+  "name": "stepper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4DCC334-E607-4C89-B75F-D7BBFA07C564",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

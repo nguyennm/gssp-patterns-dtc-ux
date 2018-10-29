@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "96AB66FC-BEFA-439D-9E10-9853FEE8C97E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F49BF6A-CEE6-4300-80B8-0B4BEB454571",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AD3D02C-D29C-495C-B67A-422664BCA98F",
+    "height": 22,
+    "width": 250,
+    "x": 15,
+    "y": 1230
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2F4E2838-F940-437D-A77A-FCB9FCDA3630"
+    }
+  ],
+  "name": "stepper copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F863A093-B135-4664-BF75-21E03B89B14E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

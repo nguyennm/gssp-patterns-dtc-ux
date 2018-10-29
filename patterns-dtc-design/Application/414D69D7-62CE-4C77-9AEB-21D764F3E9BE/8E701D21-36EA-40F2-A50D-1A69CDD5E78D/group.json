@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8E701D21-36EA-40F2-A50D-1A69CDD5E78D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC34C839-244D-4585-90C1-EDFBF1FAAC26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B7B5A35-8F20-4C44-AFF2-8BFC2374DC8A",
+    "height": 133,
+    "width": 290,
+    "x": 15,
+    "y": 827
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "46533272-64AA-424B-B353-E338D6ADF83B"
+    },
+    {
+      "class": "text",
+      "id": "FE42D705-106C-4813-A4C1-B4FEAD799A77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3BF0B8F-FCED-4FC2-B1B5-2E03DFB261D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4A0CC4D-933C-4696-B486-461AECBED34D"
+    }
+  ],
+  "name": "grp_question_tobacco copy 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2CAB535-ACF2-4A5A-ADB8-1B6F5AB905A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

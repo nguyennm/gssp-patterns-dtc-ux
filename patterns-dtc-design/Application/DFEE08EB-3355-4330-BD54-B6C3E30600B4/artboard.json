@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "9AC7BDD7-8CE1-4352-857D-A9394D5BECEE",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": 0,
+  "do_objectID": "DFEE08EB-3355-4330-BD54-B6C3E30600B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60CAF98D-AD42-43E0-B2D4-0E8A84732111",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F039B010-F327-41E7-B548-655B0C17F867",
+    "height": 1082,
+    "width": 320,
+    "x": 210,
+    "y": 145
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F7B122D4-3E3B-4EA8-B1B4-890E80875ABE",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9ED4CC21-68CC-421B-83BF-9DF534E5C249",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6AB07073-74E3-45CA-93F3-4A1DF40CDC21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEDECF6F-2EAE-4CBE-A3A8-C71A7A53DDE7"
+    },
+    {
+      "class": "group",
+      "id": "07FB874C-426D-45D9-AD03-4AA65EC1FC16"
+    },
+    {
+      "class": "group",
+      "id": "4F42C1E7-8C68-46FD-B2F9-A87C0025B512"
+    },
+    {
+      "class": "group",
+      "id": "62DDAE8B-6272-4A15-9AF5-A8A5C3B18D1C"
+    },
+    {
+      "class": "text",
+      "id": "661EE55C-831A-4A04-AD65-E7EFB323C4BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B70F5D0-33F0-4AFE-84B1-56CE6299C558"
+    },
+    {
+      "class": "group",
+      "id": "462D305E-8ED7-48BB-A19C-E5FBE93515B0"
+    }
+  ],
+  "name": "DTC/Application -Financial Information",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B8A79C3-E7F8-44B8-BE9F-FA555989E4FA",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4A10D262-12BF-4C72-8385-206C2F48C30A",
+    "guides": [
+    ]
+  }
+}

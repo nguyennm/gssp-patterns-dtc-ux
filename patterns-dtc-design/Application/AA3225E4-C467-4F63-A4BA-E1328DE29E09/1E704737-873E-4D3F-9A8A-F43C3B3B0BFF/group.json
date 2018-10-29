@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1E704737-873E-4D3F-9A8A-F43C3B3B0BFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6207675-3EFE-4484-BA6C-163AE8AAECEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7232022A-4174-4A3B-B4F5-7B9CF6906081",
+    "height": 18,
+    "width": 113,
+    "x": 15,
+    "y": 198
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2AF9CC3A-2B6B-4BAA-999A-5A7839C421A5"
+    }
+  ],
+  "name": "grp_question_tobacco copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FAC9FE0-A02E-44D1-B5AF-F62028943020",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

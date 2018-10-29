@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "60CDEB60-EAFA-4CA9-98BC-565779B30D08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79EE75D2-BCAE-44F7-A452-05C011E12761",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CED3685-444C-474F-8535-1F1EC52FB629",
+    "height": 120,
+    "width": 290,
+    "x": 15,
+    "y": 691
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63665A15-0189-446D-862C-518434D4592B"
+    },
+    {
+      "class": "text",
+      "id": "EAEB040E-361F-4C05-BC92-569B31D9D521"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0274CA6-0245-448C-B780-D113926DD0F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9955C291-E4E7-495B-86BA-2D957E221F8C"
+    }
+  ],
+  "name": "grp_question_tobacco copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FAA8ADD-928A-4B57-997B-983079349E7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,12 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANcT3VyIHByb2R1Y3Rz0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAE4AQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yZmZmZmZmiM/8AAAAAAAACM/yZmZmZmZmiM/yZmZmZmZmtI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00zoKOzw9PlpOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAEhAE0jQ1QEFfEBBOU1BhcmFncmFwaFN0eWxlokA40gpDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKR0pNokhJgBWAFqJLTIAXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEBhcR2VvcmdpYS1Cb2xk0jQ1U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1M2ONI0NVZXXxAQTlNGb250RGVzY3JpcHRvcqJYOF8QEE5TRm9udERlc2NyaXB0b3LSNDVaW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgCTAJoAogCtALEAswC1ALcAuwC9AL8AwQDDAPABAwElASwBMQEzATUBNwE5AT4BQAFCAUQBRgFIAUwBUgFXAV0BZgFvAXgBgQGGAZEBmgGnAaoBswG6AcUB0QHTAdUB1wHcAe8B8gH3AhQCFgIYAh8CIgIkAiYCKQIrAi0CLwJFAlsCXQJqAm8ChQKJAo4CoQKkArcCvALRAtQC6QL7Av4DAwAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAMF"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Georgia-Bold",
+              "size": 24
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 12,
+        "location": 0
+      }
+    ],
+    "string": "Our products"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "59D400A9-32D6-4094-9425-30F56ED88AEE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +53,7 @@
     "y": 16
   },
   "glyphBounds": "{{0, 3}, {165, 25}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

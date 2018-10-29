@@ -1,5 +1,6 @@
 {
   "_class": "page",
+  "booleanOperation": 0,
   "do_objectID": "D0D9E229-7537-4CF7-972E-2287398F4CC8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +37,7 @@
     ]
   },
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -44,7 +46,27 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "E623B918-6666-470A-9962-F5D280DE7DF9"
+      "id": "414D69D7-62CE-4C77-9AEB-21D764F3E9BE"
+    },
+    {
+      "class": "artboard",
+      "id": "FB906827-6310-40B6-884B-005FEC3B6554"
+    },
+    {
+      "class": "artboard",
+      "id": "6B980B17-9A20-4A5C-A089-1773A7287715"
+    },
+    {
+      "class": "artboard",
+      "id": "AA3225E4-C467-4F63-A4BA-E1328DE29E09"
+    },
+    {
+      "class": "artboard",
+      "id": "DFEE08EB-3355-4330-BD54-B6C3E30600B4"
+    },
+    {
+      "class": "artboard",
+      "id": "383D619F-D9CF-4A26-B624-45A6E319D96B"
     }
   ],
   "layout": {
@@ -72,9 +94,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "DDC9D2FD-4BA2-42B0-B669-361DE90B268F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

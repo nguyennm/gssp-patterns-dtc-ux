@@ -1,0 +1,186 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "12873B21-F79B-425A-80F9-A661A9FD53ED",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": 0,
+  "do_objectID": "414D69D7-62CE-4C77-9AEB-21D764F3E9BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26D3AB97-2FCC-4480-8C9D-576B5B5C7D7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3044B5EB-6798-4EFB-93EF-09608843AB41",
+    "height": 1355,
+    "width": 320,
+    "x": -861,
+    "y": 145
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "40E1E902-95D6-447F-A2A2-9D8971C0F89A",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19CFEF48-6D39-4EDA-B0F4-3FFA2BCF001B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "98F6F773-1F25-431D-A4B0-450973C52F9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA683C34-D2BE-4A09-BB3C-69B7C72C8F52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3353FEA7-EE3C-404E-ABCD-5468757B5C2E"
+    },
+    {
+      "class": "group",
+      "id": "B1992B97-87E4-462F-B3F9-B87BDF9DBFE4"
+    },
+    {
+      "class": "group",
+      "id": "A0EDBC7F-D96E-436A-A3DF-E169B2CABC59"
+    },
+    {
+      "class": "group",
+      "id": "27B1DA3D-4E3A-4F71-9F69-2FC788A5A2C0"
+    },
+    {
+      "class": "group",
+      "id": "ADE27749-B77D-4A8B-B8C3-569A94723F7C"
+    },
+    {
+      "class": "group",
+      "id": "0AAEFC0C-4FB7-4D3B-A9D6-BC8B6CBC3E57"
+    },
+    {
+      "class": "group",
+      "id": "513281CC-21BD-4C5E-A801-FFD3A21F89FF"
+    },
+    {
+      "class": "group",
+      "id": "844ABF06-93A3-4B19-A20F-621EB23BFE17"
+    },
+    {
+      "class": "group",
+      "id": "AB105602-556C-4917-8A83-24859AB8E58D"
+    },
+    {
+      "class": "group",
+      "id": "60CDEB60-EAFA-4CA9-98BC-565779B30D08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3686D86E-ECA9-4FC2-B1BD-BA0108AE2C89"
+    },
+    {
+      "class": "text",
+      "id": "0DFE272D-AB34-456B-9375-C73F1ACDE069"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C5E4350-5AC0-45BA-88D2-EDBEE6858575"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E462C0F-F8FA-41DD-A875-0F10CA52411D"
+    },
+    {
+      "class": "group",
+      "id": "8E701D21-36EA-40F2-A50D-1A69CDD5E78D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27F0E628-50DA-41C0-B5C6-2920D8A8A28F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D81BFCC-9102-456D-9031-5BAA091069B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43AA7179-5243-4B0C-BDDA-C36071E28CBC"
+    }
+  ],
+  "name": "DTC/Application - Lifestyle Screener",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "870904D7-2E1B-44E3-8562-906D3D84E49E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "62DF39BB-79AC-4B25-BF20-3C5AE33A5529",
+    "guides": [
+    ]
+  }
+}

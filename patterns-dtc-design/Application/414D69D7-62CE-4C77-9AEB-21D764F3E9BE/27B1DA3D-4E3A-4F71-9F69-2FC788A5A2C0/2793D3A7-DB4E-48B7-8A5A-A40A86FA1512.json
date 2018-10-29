@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2793D3A7-DB4E-48B7-8A5A-A40A86FA1512",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA92CEBA-CCD7-4CE8-9A6C-63690D1CCC6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7575C1BA-868C-49E6-8A91-0B9A2F11EEB5",
+    "height": 24,
+    "width": 24,
+    "x": 70,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Communication/ic_chat",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "B0EAF9CC-31AE-4582-86CE-F2A2A0450BD9",
+      "opacity": 0.5
+    },
+    "do_objectID": "B14D67A0-F22C-4424-97EE-7049DFC803FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1CAC177-0CF5-4AB7-BCBB-C31A09497234",
+  "verticalSpacing": 0
+}
